@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<!--
-**gerard1884/gerard1884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gerard, born in Haridwar(Uttarakhand), India, and now living in Canada.
 
+- 🔭 I’m working as a Cloud Engineer
+- 📚 Working on Kubernetes primarily in Azure and everything related to Cloud/DevOps
+- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
