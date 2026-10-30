@@ -1,4 +1,4 @@
-# Hi there, I'm GB 👋
+# Hi there, I'm Gerard 👋
 
 ## 🚀 DevOps Engineer | SRE Enthusiast | Network Specialist
 
