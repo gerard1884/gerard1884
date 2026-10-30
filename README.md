@@ -1,6 +1,6 @@
 # Hi there, I'm Gerard 👋
 
-## 🚀 DevOps Engineer | SRE Enthusiast | Network Specialist
+## 🚀 Infrastructure & DevOps Engineer
 
 I'm passionate about building reliable, scalable infrastructure and bridging the gap between development and operations. With a strong foundation in networking and cloud technologies, I specialize in Kubernetes orchestration, infrastructure as code, and site reliability engineering practices.
 
